@@ -1,0 +1,3 @@
+r10 45 
+admirand 105 
+studenthotel 76 
